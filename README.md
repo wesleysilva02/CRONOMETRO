@@ -1,4 +1,5 @@
 # ⏱️ Cronômetro em Python
+ <img src="tela01.png" width="500" alt="Texto Alternativo">
 
 Um aplicativo de **cronômetro digital simples, intuitivo e moderno** desenvolvido em Python. Este projeto foi criado para praticar conceitos de interfaces gráficas (GUI) e manipulação de tempo/threads em Python.
 
@@ -10,15 +11,16 @@ O cronômetro conta com três funções principais controladas por botões inter
 
 ### 1. Iniciar
 Dá início à contagem do tempo em formato de horas, minutos, segundos e milissegundos.
-![Demonstração do botão Iniciar](https://link-da-imagem-do-cronometro-iniciando.png)
+ <img src="tela02.png" width="500" alt="Texto Alternativo">
+
 
 ### 2. Pausar
 Congela o tempo atual da contagem, permitindo que o usuário retome do mesmo ponto depois.
-![Demonstração do botão Pausar](https://link-da-imagem-do-cronometro-pausado.png)
+ <img src="tela03.png" width="500" alt="Texto Alternativo">
 
 ### 3. Resetar
 Zera completamente o temporizador (`00:00:00.00`), limpando a tela para uma nova contagem.
-![Demonstração do botão Resetar](https://link-da-imagem-do-cronometro-resetado.png)
+ <img src="tela04.png" width="500" alt="Texto Alternativo">
 
 ---
 
